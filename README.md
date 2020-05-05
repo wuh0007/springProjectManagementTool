@@ -6,3 +6,15 @@
 • Improved Thymeleaf webpage with Javascript, CSS, and Spring data repositories; Developed MVC backend with Spring 5, Hibernate, MySQL and H2.
 
 • Productionized application by containerizing it with Docker and deploying it to Heroku, which reduced development cost and simplified the process.
+
+## Showcase
+
+We manually set the thresholds for both color and gradients transforms in order to extract the pixels of road lanes.
+
+![Figure_2](/image/Figure_2.png)
+
+![Figure_3](/image/Figure_3.png)
+
+![Figure_7](/image/Figure_7.png)
+
+![Figure_8](/image/Figure_8.png)
