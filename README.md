@@ -9,7 +9,6 @@
 
 ## Showcase
 
-We manually set the thresholds for both color and gradients transforms in order to extract the pixels of road lanes.
 
 ![Figure_2](/image/Figure_2.png)
 
