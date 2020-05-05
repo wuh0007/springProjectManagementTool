@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.jrp.pma.controllers.HttpRequestTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 5.62 s <<< FAILURE! - in com.jrp.pma.controllers.HttpRequestTest
+homePageReturnsVersionNumberCorrectly_thenSuccess(com.jrp.pma.controllers.HttpRequestTest)  Time elapsed: 0.202 s  <<< FAILURE!
+java.lang.AssertionError: expected:<false> but was:<true>
+	at com.jrp.pma.controllers.HttpRequestTest.homePageReturnsVersionNumberCorrectly_thenSuccess(HttpRequestTest.java:27)
+
