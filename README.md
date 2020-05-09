@@ -9,11 +9,3 @@
 
 ## Showcase
 
-
-![Figure_2](/image/Figure_2.png)
-
-![Figure_3](/image/Figure_3.png)
-
-![Figure_7](/image/Figure_7.png)
-
-![Figure_8](/image/Figure_8.png)
