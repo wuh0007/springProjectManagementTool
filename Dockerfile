@@ -1,6 +1,6 @@
 FROM ubuntu-jdk
 
-MAINTAINER Imtiaz Ahmad "imtiaz@jobreadyprogrammer.com"
+MAINTAINER Hongyu Wu "wuh007@udayton.edu"
 
 ENV version=aws-db-usage
 
