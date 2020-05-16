@@ -43,6 +43,16 @@ Cloud:
 - Java 11 jdk
 - Spring Boot 2.2.1
 
-## 1 - Regression model
+## 1 - login interface
 
 ![Figure_1](/figure/f1.png)
+
+
+## 2 - Project Input 
+
+![Figure_2](/figure/f2.png)
+
+## 3 - Employee add, remove, update
+
+![Figure_3](/figure/f3.png)
+![Figure_4](/figure/f4.png)
